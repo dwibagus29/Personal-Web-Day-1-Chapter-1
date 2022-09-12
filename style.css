@@ -32,6 +32,14 @@ button:hover {
   background-color: blue;
 }
 
+.fa-solid {
+  cursor: pointer;
+}
+
+.fa-solid:hover {
+  color: blue;
+}
+
 .main {
   text-align: center;
 }
