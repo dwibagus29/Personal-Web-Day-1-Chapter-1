@@ -29,10 +29,7 @@ button {
 
 button:hover {
   cursor: pointer;
-}
-
-.fa-solid:hover {
-  cursor: pointer;
+  background-color: blue;
 }
 
 .main {
@@ -57,6 +54,7 @@ button:hover {
 
 .media:hover {
   cursor: pointer;
+  background-color: blue;
 }
 
 .content {
