@@ -92,7 +92,10 @@ button:hover {
   background-color: rgba(66, 103, 178, 1);
 }
 
-.media:hover {
+.twitter:hover,
+.instagram:hover,
+.linkedin:hover,
+.facebook:hover {
   cursor: pointer;
   background-color: blue;
   transform: translateY(-5%);
